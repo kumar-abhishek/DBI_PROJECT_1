@@ -1,0 +1,1 @@
+kumar: load is working properly . so option 1 of test.out works well, in option 2 : scan: getNext() not working well : it deletes the whole lineitem.bin file. Need to fix this.
